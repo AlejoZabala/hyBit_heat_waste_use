@@ -113,8 +113,6 @@ LICENSE             # Project license (optional)
 
 ![Temporal Match](output/abwaerme_vs_demand.png)
 
-*(Place your generated figures from `plt.savefig()` into `output/` and reference them here)*
-
 ---
 
 ## Limitations
