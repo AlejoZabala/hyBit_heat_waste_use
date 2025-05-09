@@ -1,0 +1,17 @@
+.
+├── Abwaerme_nutzung.ipynb
+├── input
+│   ├── df_LP_geschossanzahl_hyBit.geojson
+│   ├── df_abwaerme_hyBit.csv
+│   ├── df_lp_heat_hybit.csv
+│   ├── gdf_area.geojson
+│   ├── gdf_road.geojson
+│   ├── polygon.geojson
+│   └── roads.geojson
+├── output
+│   ├── Hourly comparison of heatwaste vs heat demand.png
+│   ├── clustered_abwaerme_buildings.png
+│   └── top_20_heat_waste_sources.png
+└── structure.txt
+
+3 directories, 12 files
