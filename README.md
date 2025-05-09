@@ -23,21 +23,21 @@ The tool clusters the most significant industrial heat sources (Abwärme), compu
 
 ---
 ## Repository structure
-.
-├── Abwaerme_nutzung.ipynb              <- Main notebook with all analyses and plots
-├── input/                              <- Input datasets (GeoJSONs, CSVs)
-│   ├── df_LP_geschossanzahl_hyBit.geojson
-│   ├── df_abwaerme_hyBit.csv
-│   ├── df_lp_heat_hybit.csv
-│   ├── gdf_area.geojson
-│   ├── gdf_road.geojson
-│   ├── polygon.geojson
-│   └── roads.geojson
-├── output/                             <- Generated plots and results
-│   ├── Hourly comparison of heatwaste vs heat demand.png
-│   ├── clustered_abwaerme_buildings.png
-│   └── top_20_heat_waste_sources.png
-├── structure.txt                       <- Repository file tree
+      .
+      ├── Abwaerme_nutzung.ipynb              <- Main notebook with all analyses and plots
+      ├── input/                              <- Input datasets (GeoJSONs, CSVs)
+      │   ├── df_LP_geschossanzahl_hyBit.geojson
+      │   ├── df_abwaerme_hyBit.csv
+      │   ├── df_lp_heat_hybit.csv
+      │   ├── gdf_area.geojson
+      │   ├── gdf_road.geojson
+      │   ├── polygon.geojson
+      │   └── roads.geojson
+      ├── output/                             <- Generated plots and results
+      │   ├── Hourly comparison of heatwaste vs heat demand.png
+      │   ├── clustered_abwaerme_buildings.png
+      │   └── top_20_heat_waste_sources.png
+      ├── structure.txt                       <- Repository file tree
 
 
 
