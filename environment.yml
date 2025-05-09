@@ -1,0 +1,19 @@
+name: hyBit_heat_waste_use
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - geopandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - shapely
+  - networkx
+  - scikit-learn
+  - ipython
+  - jupyterlab
+  - notebook
+  - pip
+  - pip:
+      - ace-tools-open
