@@ -138,7 +138,7 @@ LICENSE             # Project license (optional)
 
 > The hyBit project (Hydrogen for Bremen’s Industrial Transformation) is a large-scale initiative coordinated by the University of Bremen and funded by Germany’s BMBF. It promotes sustainable hydrogen and heat reuse strategies as part of Bremen’s decarbonization roadmap. The Hochschule Bremen develops spatial analysis tools for identifying heat reuse areas near the ArcelorMittal steel plant and beyond.
 
-More info: [https://www.hybit.de](https://www.hybit.de)
+More info: [hybit_project_HSB](https://www.hs-bremen.de/forschen/forschungs-und-transferprofil/forschungsprojekt/verbundvorhaben-hybit-hydrogen-for-bremens-industrial-transformation/)
 
 ---
 
