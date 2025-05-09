@@ -144,7 +144,7 @@ More info: [hybit_project_HSB](https://www.hs-bremen.de/forschen/forschungs-und-
 
 ## License
 
-This repository is released under the MIT License (or adapt accordingly).
+This repository is released under the MIT License.
 
 ---
 
