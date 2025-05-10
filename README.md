@@ -82,8 +82,13 @@ LICENSE              # Project license
 1. **Set up environment**:
 
    ```bash
-   pip install pandas geopandas scikit-learn matplotlib shapely
+         conda env create -f environment.yml
    ```
+```bash
+         conda activate hyBit_heat_waste_use
+   ```
+Then open Jupyter Notebook in your prefered code editor: e.g. Visual Code.
+
 
 2. **Place input files** in the `input/` folder.
 
