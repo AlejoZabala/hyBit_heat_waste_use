@@ -84,7 +84,7 @@ LICENSE              # Project license
    ```bash
          conda env create -f environment.yml
    ```
-```bash
+   ```bash
          conda activate hyBit_heat_waste_use
    ```
 Then open Jupyter Notebook in your prefered code editor: e.g. Visual Code.
