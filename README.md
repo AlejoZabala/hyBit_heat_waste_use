@@ -62,7 +62,7 @@ output/              # Automatically generated files (clustered buildings, plots
 notebooks/           # Optional Jupyter notebooks for step-by-step exploration
 src/                 # Modularized functions (future step)
 README.md            # This file
-LICENSE             # Project license (optional)
+LICENSE              # Project license
 ```
 
 ---
