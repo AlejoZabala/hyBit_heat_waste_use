@@ -155,7 +155,7 @@ This repository is released under the MIT License.
 
 ## Acknowledgements
 
-Thanks to the hyBit partners and BMBF for funding this research.
+This work is part of the Hochschule Bremen’s subproject within the hyBit research initiative. It is funded by the German Federal Ministry of Education and Research (BMBF) under grant number 03SF0687G.
 
-Created by Hochschule Bremen Energy Planning Team.
+Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderkennzeichen 03SF0687G vom Bundesministerium für Bildung und Forschung (BMBF) gefördert
 
