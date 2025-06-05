@@ -159,3 +159,8 @@ This work is part of the Hochschule Bremen’s subproject within the hyBit resea
 
 Das Teilvorhaben der Hochschule Bremen im Projekt hyBit wird unter dem Förderkennzeichen 03SF0687G vom Bundesministerium für Bildung und Forschung (BMBF) gefördert
 
+## Citation
+
+If you use this code, please cite the following:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15602145.svg)](https://doi.org/10.5281/zenodo.15602145)
